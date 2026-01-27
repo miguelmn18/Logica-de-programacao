@@ -9,6 +9,7 @@ As fontes do projeto você encontra logo a baixo.
 
 
 
+![Uploading NotebookLM Mind Map (1).png…]()
 
 
 
