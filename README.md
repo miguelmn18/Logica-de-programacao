@@ -1,4 +1,4 @@
-#Fundamentos da Lógica de Programação e Algoritmos com Python
+# Fundamentos da Lógica de Programação e Algoritmos com Python
 
 Este projeto tem como objetivo facilitar o aprendizado e absorção do assunto de lógica de programação se baseando em linguagem Python.
 As fontes do projeto você encontra logo a baixo.
