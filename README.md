@@ -1,7 +1,9 @@
 # Fundamentos da Lógica de Programação e Algoritmos com Python
 
 Este projeto tem como objetivo facilitar o aprendizado e absorção do assunto de lógica de programação se baseando em linguagem Python.
-As fontes do projeto você encontra logo a baixo.
+.
+
+https://notebooklm.google.com/notebook/68030490-0d1a-4f46-aa63-d658161d48ef <- Este link leve você diretamente para o notebookLM para você realizar os testes por lá.
 
 
 
@@ -40,7 +42,7 @@ As fontes do projeto você encontra logo a baixo.
 
 
 
-
+Fontes utilizadas na criação da IA generativa no notebookLM
 
 Fontes de vídeo:
 
