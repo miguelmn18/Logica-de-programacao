@@ -5,9 +5,7 @@ Este projeto tem como objetivo facilitar o aprendizado e absorção do assunto d
 O NotebookLM é uma ferramenta que tem como objetivo criar uma IA generativa, no qual ela utiliza de fontes fornecidas pelo usuário, para gerar mapa mental, flashcards e atuar como um ChatGPT no qual o usuário pode realizar perguntas sobre e com base nas fontes fornecidas ele lhe responderá. 
 
 Como as fontes são escolhidas pelo usuário, esperasse que as fontes sejam seguras e confiáveis. Isso facilitará no seu aprendizado e trará mais segurança nas respostas que a IA gerar. 
-.
-.
-.
+
 
 
 # Link para acessar o NotebookLM
